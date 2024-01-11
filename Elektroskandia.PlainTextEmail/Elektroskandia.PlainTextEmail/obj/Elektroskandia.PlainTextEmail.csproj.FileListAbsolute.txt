@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\bin\Debug\Elektroskandia.PlainTextEmail.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\bin\Debug\Elektroskandia.PlainTextEmail.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\obj\Debug\Elektroskandia.PlainTextEmail.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.PlainTextEmail\Elektroskandia.PlainTextEmail\obj\Debug\Elektroskandia.PlainTextEmail.pdb
