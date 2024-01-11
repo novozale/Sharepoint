@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\bin\Debug\Elektroskandia.ItemSetInDB.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\bin\Debug\Elektroskandia.ItemSetInDB.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\obj\Debug\Elektroskandia.ItemSetInDB.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.ItemSetInDB\Elektroskandia.ItemSetInDB\obj\Debug\Elektroskandia.ItemSetInDB.pdb
