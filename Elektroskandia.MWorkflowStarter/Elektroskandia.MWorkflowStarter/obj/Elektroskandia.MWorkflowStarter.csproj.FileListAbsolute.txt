@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\bin\Debug\Elektroskandia.MWorkflowStarter.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\bin\Debug\Elektroskandia.MWorkflowStarter.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\obj\Debug\Elektroskandia.MWorkflowStarter.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MWorkflowStarter\Elektroskandia.MWorkflowStarter\obj\Debug\Elektroskandia.MWorkflowStarter.pdb
