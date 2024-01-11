@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\bin\Debug\Elektroskandia.GetItemFromAD.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\bin\Debug\Elektroskandia.GetItemFromAD.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\obj\Debug\Elektroskandia.GetItemFromAD.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.GetItemFromAD\Elektroskandia.GetItemFromAD\obj\Debug\Elektroskandia.GetItemFromAD.pdb
