@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\bin\Debug\Elektroskandia.MovingItemsByDate.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\bin\Debug\Elektroskandia.MovingItemsByDate.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\obj\Debug\Elektroskandia.MovingItemsByDate.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate\obj\Debug\Elektroskandia.MovingItemsByDate.pdb

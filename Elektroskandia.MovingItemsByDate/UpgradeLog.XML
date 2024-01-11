@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Elektroskandia.MovingItemsByDate">
+</Property><Property Name="Solution File" Value="O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.sln">
+</Property><Property Name="User Options File" Value="O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.suo">
+</Property><Property Name="Date" Value="11 сентября 2013 г.">
+</Property><Property Name="Time" Value="9:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Elektroskandia.MovingItemsByDate.sln" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Elektroskandia.MovingItemsByDate.suo" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate.suo">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.csproj" Description="Project file successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.csproj">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Properties\AssemblyInfo.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\MovingItemsByDate.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\MovingItemsByDate.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\MovingItemsByDate.Designer.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\MovingItemsByDate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Properties\Settings.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.snk" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.snk">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Properties\Settings.settings" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.MovingItemsByDate\Backup\Elektroskandia.MovingItemsByDate\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Elektroskandia.MovingItemsByDate.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Elektroskandia.MovingItemsByDate.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.MovingItemsByDate" Source="Elektroskandia.MovingItemsByDate\Elektroskandia.MovingItemsByDate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
