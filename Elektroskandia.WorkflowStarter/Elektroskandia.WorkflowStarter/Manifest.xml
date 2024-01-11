@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/"
+          DeploymentServerType="WebFrontEnd"
+          ResetWebServer="TRUE"
+          SolutionId="4B59316A-4949-4b3e-AB51-D914034E671C">
+	<Assemblies>
+		<Assembly DeploymentTarget="GlobalAssemblyCache"
+				  Location="Elektroskandia.WorkflowStarter.dll"/>
+	</Assemblies>
+	<FeatureManifests>
+		<FeatureManifest Location="WorkflowStarter\feature.xml"/>
+	</FeatureManifests>
+</Solution>

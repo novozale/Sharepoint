@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Elektroskandia.WorkflowStarter">
+</Property><Property Name="Solution File" Value="O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.sln">
+</Property><Property Name="User Options File" Value="O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.suo">
+</Property><Property Name="Date" Value="11 сентября 2013 г.">
+</Property><Property Name="Time" Value="10:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Elektroskandia.WorkflowStarter.sln" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Elektroskandia.WorkflowStarter.suo" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter.suo">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.csproj" Description="Project file successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.csproj">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\WorkflowStarterJob.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\WorkflowStarterJob.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Properties\AssemblyInfo.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\WorkflowStarterJobInstaller.cs" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\WorkflowStarterJobInstaller.cs">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarterJob.snk" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarterJob.snk">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Feature.xml" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\Feature.xml">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Manifest.xml" Description="File successfully backed up as O:\PUBLIC\IT\Sharepoint\Projects\Elektroskandia.WorkflowStarter\Backup\Elektroskandia.WorkflowStarter\Manifest.xml">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Elektroskandia.WorkflowStarter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Elektroskandia.WorkflowStarter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Elektroskandia.WorkflowStarter" Source="Elektroskandia.WorkflowStarter\Elektroskandia.WorkflowStarter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

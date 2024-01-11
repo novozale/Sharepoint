@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/"
+         Id="C8DD9730-7C72-412c-B02C-A5FF07465E06"
+         Title="Workflow ('DailyWork') Starter Timer Job"
+         Description="Installs the workflow starter timer job feature to the current site collection."
+         Scope="Site"
+         Hidden="TRUE"
+         Version="1.0.0.0"
+         ReceiverAssembly="Elektroskandia.WorkflowStarter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b134b111fd1a90d9"
+         ReceiverClass="Elektroskandia.WorkflowStarter.WorkflowStarterJobInstaller">
+</Feature>
