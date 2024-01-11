@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\bin\Debug\ItemChangingTime.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\bin\Debug\ItemChangingTime.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\obj\Debug\ItemChangingTime.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemChangingTime\ItemChangingTime\obj\Debug\ItemChangingTime.pdb
