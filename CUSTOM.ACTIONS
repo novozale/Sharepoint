@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- _lcid="1049" _version="12.0.4518" _dal="1" -->
+<!-- _LocalBinding -->
+<WorkflowInfo Language="ru-RU">
+  <Actions Sequential="затем" Parallel="и">
+    <Default>
+        <RuleDesigner Sentence="Выполнить действие %1">
+          <FieldBind Id="1" Function="true"/>
+        </RuleDesigner>
+    </Default>
+    <Action
+    Name="Program setting Security"
+    ClassName="ItemLevelSecurity.ItemLevelSecurityActivity"
+    Assembly="ItemLevelSecurityActivity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=15c7687c985d246e"
+	AppliesTo="all"
+	UsesCurrentItem="true"
+	Category="Custom">
+      <RuleDesigner Sentence="Assign %3 Rights to %1 and %4 Rights to %2 ">
+        <FieldBind
+				  Field="NamesToRW"
+				  Id="1"
+				  DesignerType="Person"
+				  Text="&lt;пользователи&gt;"/>
+        <FieldBind
+				  Field="NamesToR"
+				  Id="2"
+				  DesignerType="Person"
+				  Text="&lt;пользователи&gt;"/>
+        <FieldBind
+				  Field="RWPermissionLevel"
+				  Id="3"
+				  DesignerType="text"
+				  Text="&lt;Уровень разрешения на запись&gt;"/>
+        <FieldBind
+				  Field="RPermissionLevel"
+				  Id="4"
+				  DesignerType="text"
+				  Text="&lt;Уровень разрешения на чтение&gt;"/>
+      </RuleDesigner>
+      <Parameters>
+        <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext, Microsoft.SharePoint.WorkflowActions" Direction="In"/>
+        <Parameter Name="__ListId" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="__ListItem" Type="System.Int32, mscorlib" Direction="In" />
+        <Parameter Name="NamesToRW" Type="System.Collections.ArrayList, mscorlib" Direction="Optional" />
+        <Parameter Name="NamesToR" Type="System.Collections.ArrayList, mscorlib" Direction="Optional" />
+        <Parameter Name="RWPermissionLevel" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="RPermissionLevel" Type="System.String, mscorlib" Direction="In" />
+      </Parameters>
+    </Action>
+    <Action Name="Set field value in current item"
+	  ClassName="ItemTime.ItemChangingTime"
+	  Assembly="ItemChangingTime, Version=1.0.0.1, Culture=neutral, PublicKeyToken=2d14df619170e1d0"
+    UsesCurrentItem="true"
+	  AppliesTo="all"
+	  Category="Custom">
+      <RuleDesigner Sentence="Set %1 equal %2 For field %3">
+        <FieldBind Field="MyActionType" DesignerType="Dropdown" Id="1" Text="&lt;action&gt;">
+          <Option Name="Current Time" Value="Current Time"/>
+          <Option Name="Value" Value="Value"/>
+        </FieldBind>
+        <FieldBind Field="MyValue" Id="2" DesignerType="string" Text="&lt;value&gt;" />
+        <FieldBind Field="MyFieldName" Id="3" DesignerType="fieldNames" Text="&lt;field&gt;"/>
+      </RuleDesigner>
+      <Parameters>
+        <Parameter Name="MyActionType" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="MyValue" Type="System.String, mscorlib" Direction="Optional" />
+        <Parameter Name="MyFieldName" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext" Direction="In" />
+        <Parameter Name="__ListId" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="__ListItem" Type="System.Int32, mscorlib" Direction="In"  />
+      </Parameters>
+    </Action>
+    <Action Name="Delete current item"
+	  ClassName="ItemDelete.ItemFullDelete"
+	  Assembly="ItemFullDelete, Version=1.0.0.0, Culture=neutral, PublicKeyToken=2e272ac6ac1c198a"
+    UsesCurrentItem="true"
+	  AppliesTo="all"
+	  Category="Custom">
+      <RuleDesigner Sentence="Delete current item">
+      </RuleDesigner>
+      <Parameters>
+        <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext" Direction="In" />
+        <Parameter Name="__ListId" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="__ListItem" Type="System.Int32, mscorlib" Direction="In"  />
+      </Parameters>
+    </Action>
+    <Action Name="Move item to list"
+	  ClassName="ItemCopy.ItemFullCopy"
+	  Assembly="ItemFullCopy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=aab117d023347dcc"
+	  CreatesInList="ToListId"
+	  AppliesTo="all"
+	  Category="Custom">
+      <RuleDesigner Sentence="Move Item %1 to %2">
+        <FieldBind Field="ListId,ListItem" Text="&lt;item&gt;" Id="1" DesignerType="ChooseListItem" />
+        <FieldBind Field="ToListId" Text="&lt;list&gt;" Id="2" DesignerType="ListNames" />
+      </RuleDesigner>
+      <Parameters>
+        <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext" Direction="In" />
+        <Parameter Name="ListId" Type="System.String, mscorlib" Direction="In" />
+        <Parameter Name="ListItem" Type="System.Int32, mscorlib" Direction="In"  />
+        <Parameter Name="ToListId" Type="System.String, mscorlib" Direction="In"  />
+      </Parameters>
+    </Action>
+	  <Action Name="Move old items to archive"
+	  ClassName="Elektroskandia.MovingItemsByDate.MovingItemsByDateCLS"
+	  Assembly="Elektroskandia.MovingItemsByDate, Version=1.0.0.0, Culture=neutral, PublicKeyToken=14ee2fa397348dc8"
+	  AppliesTo="all"
+	  Category="Custom">
+		  <RuleDesigner Sentence="Move Items oder than %1 days and field %4 equal %5 from list %2 to %3 archive list">
+			  <FieldBind Field="MyValue" Id="1" DesignerType="Integer" Text="&lt;number&gt;" />
+			  <FieldBind Field="FromListId" Text="&lt;fromList&gt;" Id="2" DesignerType="ListNames" />
+			  <FieldBind Field="ToListId" Text="&lt;toList&gt;" Id="3" DesignerType="ListNames" />
+			  <FieldBind Field="MyFieldName" Id="4" DesignerType="fieldNames" Text="&lt;field&gt;"/>
+			  <FieldBind Field="MyValue1" Id="5" DesignerType="string" Text="&lt;value&gt;" />
+		  </RuleDesigner>
+		  <Parameters>
+			  <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext" Direction="In" />
+			  <Parameter Name="FromListId" Type="System.String, mscorlib" Direction="In" />
+			  <Parameter Name="ToListId" Type="System.String, mscorlib" Direction="In"  />
+			  <Parameter Name="MyValue" Type="System.Int32, mscorlib" Direction="In" />
+			  <Parameter Name="MyFieldName" Type="System.String, mscorlib" Direction="In" />
+			  <Parameter Name="MyValue1" Type="System.String, mscorlib" Direction="In" />
+		  </Parameters>
+	  </Action>
+	  <Action Name="Send Reminder"
+	  ClassName="Elektroskandia.Reminder.ReminderCLS"
+	  Assembly="Elektroskandia.Reminder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=12802566f20d13d9"
+	  Category="Custom"
+	  AppliesTo="all">
+		  <RuleDesigner Sentence="Send reminders %1 that items in %2 are not active in %3 days and field %4 not equal %5">
+			  <FieldBind Field="To,CC,Subject,Body" Text="&lt;reminder&gt;" DesignerType="Email" Id="1"/>
+			  <FieldBind Field="ListId" Text="&lt;List&gt;" Id="2" DesignerType="ListNames" />
+			  <FieldBind Field="MyValue" Id="3" DesignerType="Integer" Text="&lt;number&gt;" />
+			  <FieldBind Field="MyFieldName" Id="4" DesignerType="fieldNames" Text="&lt;field&gt;"/>
+			  <FieldBind Field="MyValue1" Id="5" DesignerType="Person" Text="&lt;value&gt;" />
+		  </RuleDesigner>
+		  <Parameters>
+			  <Parameter Name="__Context" Type="Microsoft.SharePoint.WorkflowActions.WorkflowContext, Microsoft.SharePoint.WorkflowActions" Direction="In"/>
+			  <Parameter Name="Body" Type="System.String, mscorlib" Direction="Optional" />
+			  <Parameter Name="To" Type="System.Collections.ArrayList, mscorlib" Direction="In" />
+			  <Parameter Name="CC" Type="System.Collections.ArrayList, mscorlib" Direction="Optional" />
+			  <Parameter Name="Subject" Type="System.String, mscorlib" Direction="In" />
+			  <Parameter Name="ListId" Type="System.String, mscorlib" Direction="In" />
+			  <Parameter Name="MyValue" Type="System.Int32, mscorlib" Direction="In" />
+			  <Parameter Name="MyFieldName" Type="System.String, mscorlib" Direction="In" />
+			  <Parameter Name="MyValue1" Type="System.Collections.ArrayList, mscorlib" Direction="In" />
+		  </Parameters>
+	  </Action>
+  </Actions>
+</WorkflowInfo>
