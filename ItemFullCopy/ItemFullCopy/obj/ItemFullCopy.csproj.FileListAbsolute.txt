@@ -1,0 +1,7 @@
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\bin\Debug\ItemFullCopy.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\bin\Debug\ItemFullCopy.pdb
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\obj\Debug\ItemFullCopy.dll
+C:\Documents and Settings\novozhilov\Мои документы\Visual Studio 2005\Projects\ItemFullCopy\ItemFullCopy\obj\Debug\ItemFullCopy.pdb
